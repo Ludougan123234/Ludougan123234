@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ludougan123234
 - 👀 I’m interested in natural language processing
 - 🌱 I’m currently learning JAVA, R, Python, and I also look forward to learning some C++ :) 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - by email: randy19981223@gmail.com
 
 <!---
