@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ludougan123234
-- 👀 I’m interested in natural language processing
+- 👀 I’m interested in natural language processing and health informatics (I am currently double majoring in English language/literature and medical informatics) 
 - 🌱 I’m currently learning JAVA, R, Python, and I also look forward to learning some C++ :) 
 - 📫 How to reach me - by email: randy19981223@gmail.com
 
